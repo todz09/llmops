@@ -3,5 +3,3 @@ uvicorn[standard]
 groq
 pydantic-settings
 prometheus-client
-pytest
-httpx
